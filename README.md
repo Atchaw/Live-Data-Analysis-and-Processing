@@ -1,10 +1,10 @@
 # Live-Data-Analysis-and-Processing
 Challenge 6 in the 4TH FUTURE-IOT PHD SCHOOL (https://school.future-iot.org/)
 Teams:
-BUCHI Baptiste
-TAKOUGANG Sylvain
-GARAH Abdelhamid
-MEHRI Hiba
+BUCHI Baptiste,
+TAKOUGANG Sylvain,
+GARAH Abdelhamid,
+MEHRI Hiba.
 
 Goal : A tool to create engagement by processing in real time a keynote livestream to make content for social networks.
 
