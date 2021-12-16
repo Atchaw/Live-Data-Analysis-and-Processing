@@ -5,7 +5,7 @@ Challenge 6 in the 4TH FUTURE-IOT PHD SCHOOL (https://school.future-iot.org/)
 ## Authors :
 
 - [@Abdelhamid GARAH](https://github.com/Atchaw)
-- Baptiste BUCHI
+- [@Baptiste BUCHI](https://github.com/BBUCHI)
 - Sylvain TAKOUGANG 
 - Hiba MEHRI
 
